@@ -1,6 +1,6 @@
-# EE 477: Introduction to Digital Communication - Fall 2018 Homework Solutions
+# Introduction to Digital Communication - Homework
 
-This repository contains my homework solutions for the course "EE 477: Introduction to Digital Communication" that was offered at Boğaziçi University, Department of Electrical and Electronics Engineering in Fall 2018. 
+This repository contains my homework submissions for the course "Introduction to Digital Communication".
 
 ## Course Information
 
