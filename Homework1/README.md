@@ -1,6 +1,6 @@
-# EE 477: Introduction to Digital Communications - Homework 1
+# Introduction to Digital Communications - Homework 1
 
-This repository is dedicated to "Homework 1" for the course "EE 477: Introduction to Digital Communications" offered in Fall 2018.
+This repository is dedicated to "Homework 1" for the course "Introduction to Digital Communications".
 
 ## Description
 
