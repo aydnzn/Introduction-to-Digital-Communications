@@ -1,6 +1,6 @@
-# EE 477: Introduction to Digital Communications - Homework 0
+# Introduction to Digital Communications - Homework 0
 
-This repository is dedicated to "Homework 0: Random Variables/Processes" for the course "EE 477: Introduction to Digital Communications" offered in Fall 2018.
+This repository is dedicated to "Homework 0: Random Variables/Processes" for the course "Introduction to Digital Communications".
 
 ## Description
 
